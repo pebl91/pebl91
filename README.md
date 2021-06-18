@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pebl91
+- 👋 Hi, I’m Paweł Smusz (pebl91 - nick) 
 - 👀 I’m interested in technical things
 - 🌱 I’m currently learning Ruby on Rails
 - 💞️ I’m looking to collaborate on somtheing that could help me to improve my skills.
