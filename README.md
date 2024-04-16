@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paweł Smusz
 - 👀 I’m interested in technical things
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently working with STM32 family of 32-bit microcontrollers
 - 💞️ I’m looking to collaborate on somtheing that could help me to improve my skills.
 - 📫 How to reach me pawel_smusz@yahoo.com
 
